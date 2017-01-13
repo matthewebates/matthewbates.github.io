@@ -1,7 +1,8 @@
 ## Welcome to Matthew Bates's GitHub Page
 
 This webpage accompanies my repository to share some small projects related to data science and python.
-
+ 
+ 
 
 ### (Standard text below)
 
