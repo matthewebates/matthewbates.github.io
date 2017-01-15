@@ -1,10 +1,11 @@
 ## Welcome to Matthew Bates's GitHub Page
 
-This webpage accompanies my repository to share some small projects related to data science and python.
- 
+This webpage accompanies my repository to share some small projects related to data science and python. 
+<br> Over time, I will add new repositories as they are developed.
+<br> <br> <br>
  
 
-### (Standard text below)
+### (Standard gihub text below)
 
 You can use the [editor on GitHub](https://github.com/matthewebates/matthewbates.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
