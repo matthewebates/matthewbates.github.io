@@ -8,7 +8,7 @@ This webpage accompanies my repository to share some small projects related to d
  
  
 
-### (Standard gihub text below)
+### (Standard github text below)
 
 You can use the [editor on GitHub](https://github.com/matthewebates/matthewbates.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
