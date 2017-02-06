@@ -2,7 +2,10 @@
 
 This webpage accompanies my repository to share some small projects related to data science and python. 
 <br> Over time, I will add new repositories as they are developed.
+* See here for a repository related to [financial data analysis](https://github.com/matthewebates/financial_data_analysis).
 <br> <br> <br>
+ 
+ 
  
 
 ### (Standard gihub text below)
