@@ -16,3 +16,7 @@ Skills:
 • Data analysis, analysis design, ability to summarize key insights from complex information.
 • Software development and software project management. Programming in Python (w/ numpy, scipy, pandas, etc), SQL, VB.Net, VBA, C++, C#, Java, others. Agile development, Git, Visual Studio, Team Foundation Server, other SVN tools.
 • MS Excel guru, Access, @Risk, Crystal Ball, ArcMap GIS.
+
+<br>
+
+*If you find anything here helpful, please leave a star and feel free to use with attribution.*
