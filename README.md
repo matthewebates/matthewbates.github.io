@@ -1,47 +1,6 @@
 ## Welcome to Matthew Bates's GitHub Page
 
-This webpage accompanies my repository to share some small projects related to data science and python. 
+This readme accompanies my repositories to link to small projects related to data science and python. The main project shared from my portfolio implements a first-pass financial data analysis comparing google search frequency to stock returns. Other on-off projects demonstrate smaller components of stock analysis, as shown below.
 <br> Over time, I will add new repositories as they are developed.
-* See here for a repository related to [financial data analysis](https://github.com/matthewebates/financial_data_analysis).
-<br> <br> <br>
- 
- 
- 
-
-### (Standard github text below)
-
-You can use the [editor on GitHub](https://github.com/matthewebates/matthewbates.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/matthewebates/matthewbates.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* See here for a repository containing a larger analysis of [internet search frequency and stock returns](https://github.com/matthewebates/financial_data_analysis).
+* See here for a repository containing several smaller [one-off stock analyses](https://github.com/matthewebates/one-off_small_stock_analyses).
